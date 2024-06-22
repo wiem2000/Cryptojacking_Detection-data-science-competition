@@ -18,5 +18,5 @@ To improve the F1 score, we employed techniques like feature scaling, SMOTE for 
 
 ## Dataset
 
-The data was provided by researchers from Universidad del Norte and Instituto Politecnico Nacional. Details can be found [here](link-to-competition-source)
+The data was provided by researchers from Universidad del Norte and Instituto Politecnico Nacional. Details can be found [here](https://zindi.africa/competitions/ai-national-summit-2024-competition)
 
